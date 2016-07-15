@@ -1,0 +1,8 @@
+COMPLETE - As a Warehouse worker I want to check out an order so that other workers know that I am working on it.
+COMPLETE - As a Warehouse worker I want to update the Inventory system when I have picked an order so that that stock is not allocated to another order.
+COMPLETE - As a Warehouse worker I want to update the Inventory system when a product must be removed from stock so that that that stock is not allocated to an order.
+COMPLETE - As a Warehouse worker I want to update accounts when an order is dispatched so that they know a delivery is being made.
+COMPLETE - As a Warehouse worker I want to update the Inventory system when a purchase order has been delivered so that that stock can be allocated to an order.
+COMPLETE - As a Warehouse worker I want to update accounts when a purchase order has been received so that they know a delivery has been received.
+As a Warehouse worker I want to know where to find an item in the warehouse so that I can pick the orders more efficiently.
+COMPLETE - As a Warehouse worker I want to see which items on a purchase order require porous ware treatment so that I can maintain the stock levels of porous items.
